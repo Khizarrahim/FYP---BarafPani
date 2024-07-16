@@ -1,1 +1,47 @@
-# Baraf Pani 
+# Baraf Pani - Multiplayer 3d game
+
+Description
+Baraf Pani is an innovative and engaging multiplayer game developed as a final year project using Unity 3D. Designed to provide an immersive gaming experience, Baraf Pani allows players to compete against up to five opponents in a dynamic and interactive environment.
+
+Features
+Multiplayer Gameplay: Enjoy competitive gameplay with up to 5 players in real-time. Host a game or join an existing one using a unique code generated for each session.
+Networking: Implemented using Netcode for efficient and seamless networking, ensuring a smooth multiplayer experience with minimal latency.
+Custom UI: The game boasts a custom-designed user interface, enhancing the overall player experience with intuitive controls and visually appealing menus.
+Graphics: High-quality, custom graphics make the game visually captivating, creating an immersive atmosphere for players.
+Technologies Used
+Unity 3D: The primary game development platform used to create Baraf Pani, leveraging its powerful features for 3D rendering and game mechanics.
+Netcode: Utilized for robust and reliable networking, ensuring players can connect and compete without connectivity issues.
+Custom UI Design: Tailored user interface to provide an engaging and user-friendly experience.
+Custom Graphics: Designed to offer visually appealing and immersive gameplay.
+How to Play
+Hosting a Game: Start a new game and receive a unique code to share with friends or other players.
+Joining a Game: Enter the provided code to join an existing game and compete with up to five players in real-time.
+Installation
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/yourusername/baraf-pani.git
+Open the project in Unity 3D.
+Build and run the game.
+Usage
+Launch the game.
+Choose to either host a game or join an existing one.
+If hosting, share the generated code with your friends.
+If joining, enter the code provided by the host.
+Enjoy the game!
+Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Dive into the exciting world of Baraf Pani and experience multiplayer gaming like never before. Whether you're hosting or joining a game, the fun never stops!
+
+Feel free to customize the repository URL, your username, or any other specific details as needed.
+
+
+
+
+
+
+
