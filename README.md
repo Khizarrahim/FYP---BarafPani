@@ -23,6 +23,7 @@
 - **Netcode:** Utilized for robust and reliable networking, ensuring players can connect and compete without connectivity issues.
 - **Custom UI Design:** Tailored user interface to provide an engaging and user-friendly experience.
 - **Custom Graphics:** Designed to offer visually appealing and immersive gameplay.
+- **C#:** unity uses C# Scripting for the game to act how the code it intended to.
 
 ## How to Play
 
