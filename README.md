@@ -11,6 +11,8 @@
 - **Custom UI:** The game boasts a custom-designed user interface, enhancing the overall player experience with intuitive controls and visually appealing menus.
 - **Graphics:** High-quality, custom graphics make the game visually captivating, creating an immersive atmosphere for players.
 
+![Game-Screenshots](images/MainMenu.png)
+
 ## Technologies Used
 
 - **Unity 3D:** The primary game development platform used to create Baraf Pani, leveraging its powerful features for 3D rendering and game mechanics.
