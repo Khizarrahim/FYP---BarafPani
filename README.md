@@ -11,7 +11,7 @@
 - **Custom UI:** The game boasts a custom-designed user interface, enhancing the overall player experience with intuitive controls and visually appealing menus.
 - **Graphics:** High-quality, custom graphics make the game visually captivating, creating an immersive atmosphere for players.
 
-![Game-Screenshots](images/MainMenu.png)
+![Game-Screenshots](Images/MainMenu.png)
 
 ## Technologies Used
 
