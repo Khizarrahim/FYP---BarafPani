@@ -12,6 +12,10 @@
 - **Graphics:** High-quality, custom graphics make the game visually captivating, creating an immersive atmosphere for players.
 
 ![GameScreenshots](Images/MainMenu.PNG)
+![GameScreenshots](Images/CharacterSelection.PNG)
+![GameScreenshots](Images/Credits.PNG)
+![GameScreenshots](Images/Exit.PNG)
+
 
 ## Technologies Used
 
@@ -32,6 +36,8 @@
    git clone https://github.com/yourusername/baraf-pani.git
 2. Open the project in Unity 3D.
 3. Build and run the game.
+   
+
 
 ## Usage
 Launch the game.
